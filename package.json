@@ -1,7 +1,7 @@
 {
   "name": "calling-and-stuf",
   "version": "1.0.0",
-  "description": "Simple WebRTC video call site",
+  "description": "WebRTC P2P calling app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
